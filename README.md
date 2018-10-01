@@ -1,6 +1,9 @@
 # Omnitron
 A 3-D decision based Crime-Detection project made in Unity which makes use of Fuzzy Search Algorithm. It can detect the culprit in constant time O(1) from a database. It is very useful in a company or an organization and saves a lot of time.
 Language Used: C# (Visual Studio)
+
+## Unity is programmed using c#. All development is done using your choice of C#, Boo, or a dialect of JavaScript. Boo is a CLI language with very similar syntax to Python; it is, however, statically typed at has a few other differences.
+
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine. Check below for softwares needed and requirements for running the program.
 ### Prerequisites
